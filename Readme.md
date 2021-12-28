@@ -97,4 +97,4 @@
 ![Profile views](https://gpvc.arturio.dev/jaydip1235)
 
 
-Leave a ⭐ from [here](https://github.com/jaydip1235/jaydip1235) if you like 😁
+Leave a ⭐ [here](https://github.com/jaydip1235/jaydip1235) if you like 😁

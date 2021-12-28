@@ -45,27 +45,26 @@
 
 ### Some of my Projects 👨‍💻
 </div>
-<div  float="left">
+<div  align="center">
  
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=jaydip1235&repo=MediBoard&show_icons=true&theme=great-gatsby" width="1001">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=jaydip1235&repo=MediBoard&show_icons=true&theme=great-gatsby" >
 
 
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaydip1235&repo=hack4women&show_icons=true&theme=great-gatsby" width="1001">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaydip1235&repo=hack4women&show_icons=true&theme=great-gatsby" >
+
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaydip1235&repo=Dev-Room&show_icons=true&theme=great-gatsby" > 
 
 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaydip1235&repo=Dev-Room&show_icons=true&theme=great-gatsby" width="1001"> 
-
-
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaydip1235&repo=Letter-Generator&show_icons=true&theme=great-gatsby" width="1001"> 
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaydip1235&repo=Letter-Generator&show_icons=true&theme=great-gatsby"> 
   
 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaydip1235&repo=Online-WhiteBoard&show_icons=true&theme=great-gatsby" width="1001"> 
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaydip1235&repo=Online-WhiteBoard&show_icons=true&theme=great-gatsby"> 
   
 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaydip1235&repo=Twitter_Clone&show_icons=true&theme=great-gatsby" width="1001">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaydip1235&repo=Twitter_Clone&show_icons=true&theme=great-gatsby">
   
-</>
+</di>
 
 ### Let's Connect <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
 

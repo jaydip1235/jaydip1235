@@ -88,7 +88,7 @@
 </div>  
 
 
-**Fun Fact ⚡**: _I'm availabe 🙋‍♂️ to grab a **coffee** ☕ 🙊_
+**Fun Fact ⚡**: _I'm available 🙋‍♂️ to grab a **coffee** ☕ 🙊_
 
 ---
 **🔗 Know more about me here**: [jaydip1235](https://jaydipdey.herokuapp.com)

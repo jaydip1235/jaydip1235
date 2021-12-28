@@ -45,7 +45,7 @@
 
 ### Some of my Projects 👨‍💻
 </div>
-<div style="display:flex; flex-wrap: wrap;">
+<div align="center">
  <div style=" flex: 50%; /* or - flex: 0 50% - or - flex-basis: 50% - */
   /*demo*/
   margin-bottom: 10px;">

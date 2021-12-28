@@ -45,43 +45,26 @@
 
 ### Some of my Projects 👨‍💻
 </div>
-<div align="center">
- <div style=" flex: 50%; /* or - flex: 0 50% - or - flex-basis: 50% - */
-  /*demo*/
-  margin-bottom: 10px;">
+<div  float="left">
+ 
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=jaydip1235&repo=MediBoard&show_icons=true&theme=great-gatsby">
-</div>
- <div style=" flex: 50%; /* or - flex: 0 50% - or - flex-basis: 50% - */
-  /*demo*/
-  margin-bottom: 10px;">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=jaydip1235&repo=MediBoard&show_icons=true&theme=great-gatsby" width="1001">
 
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaydip1235&repo=hack4women&show_icons=true&theme=great-gatsby">
- </div>
-  <div style=" flex: 50%; /* or - flex: 0 50% - or - flex-basis: 50% - */
-  /*demo*/
-  margin-bottom: 10px;">
 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaydip1235&repo=Dev-Room&show_icons=true&theme=great-gatsby"> 
-  </div>
-    <div style=" flex: 50%; /* or - flex: 0 50% - or - flex-basis: 50% - */
-  /*demo*/
-  margin-bottom: 10px;">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaydip1235&repo=hack4women&show_icons=true&theme=great-gatsby" width="1001">
 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaydip1235&repo=Letter-Generator&show_icons=true&theme=great-gatsby"> 
-  </div>
-  <div style=" flex: 50%; /* or - flex: 0 50% - or - flex-basis: 50% - */
-  /*demo*/
-  margin-bottom: 10px;"> 
 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaydip1235&repo=Online-WhiteBoard&show_icons=true&theme=great-gatsby"> 
-  </div> 
-  <div style=" flex: 50%; /* or - flex: 0 50% - or - flex-basis: 50% - */
-  /*demo*/
-  margin-bottom: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaydip1235&repo=Dev-Room&show_icons=true&theme=great-gatsby" width="1001"> 
 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaydip1235&repo=Twitter_Clone&show_icons=true&theme=great-gatsby">
-  </div>
+
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaydip1235&repo=Letter-Generator&show_icons=true&theme=great-gatsby" width="1001"> 
+  
+
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaydip1235&repo=Online-WhiteBoard&show_icons=true&theme=great-gatsby" width="1001"> 
+  
+
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaydip1235&repo=Twitter_Clone&show_icons=true&theme=great-gatsby" width="1001">
+  
 </>
 
 ### Let's Connect <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">

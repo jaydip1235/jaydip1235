@@ -106,13 +106,13 @@
 </div>  
 
 
-**Fun Fact ⚡**: _I'm availabe 🙋‍♂️ to grab a **coffee** ☕ 🙊_ </br>
+**Fun Fact ⚡**: _I'm availabe 🙋‍♂️ to grab a **coffee** ☕ 🙊_
 
 ---
-**🔗 Know more about me here**: [jaydip1235](https://jaydipdey.herokuapp.com) </br>
+**🔗 Know more about me here**: [jaydip1235](https://jaydipdey.herokuapp.com)
 
 ---
-![Profile views](https://gpvc.arturio.dev/jaydip1235) </br>
+![Profile views](https://gpvc.arturio.dev/jaydip1235)
 
 ---
 Leave a ⭐ from [here](https://github.com/jaydip1235/jaydip1235) if you like 😁

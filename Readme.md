@@ -95,7 +95,7 @@
 **🔗 Know more about me here**: [jaydip1235](https://jaydipdey.herokuapp.com)
 
 
-![Profile views](https://gpvc.arturio.dev/jaydip1235)
+![Profile views](https://komarev.com/ghpvc/?username=jaydip1235&label=Profile%20views&color=0e75b6&style=flat)
 
 
 Leave a ⭐ [here](https://github.com/jaydip1235/jaydip1235) if you like 😁

@@ -4,7 +4,7 @@
 
 ## Welcome to my profile 💻
 * CSE Student at Jadavpur University, Kolkata 🎓
-* Incoming SDE intern at [Optum](https://www.linkedin.com/company/optum/)  2022👨‍💻
+* SDE at [Optum](https://www.linkedin.com/company/optum/) 👨‍💻
 * GirlScript National and Regional Summit Hackathon winner 2021 👨‍💻
 * Second RunnerUp in Source Code, Kshitij 2021
 * MERN Developer 🌐
